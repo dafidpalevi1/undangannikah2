@@ -16,12 +16,12 @@
   <h1 align="center">The Wedding</h1>
 
   <p align="center">
-    <strong>Rehan & Maulidan</strong>
+    <strong>Aulia & Khairan</strong>
     <br />
     <a href="https://ngodingsolusi.github.io/the-wedding-of-rehan-maulidan/">Explore the Invitation ! »</a>
     <br />
     <br />
-    <a href="https://github.com/rayhanyulanda">Rayhan Yulanda</a>
+    <a href="https://github.com/rayhanyulanda">Aulia & Khairan</a>
     ·
     <a href="https://github.com/maulidannashuha">Maulidan Nashuha</a>
   </p>
